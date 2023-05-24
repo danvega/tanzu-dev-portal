@@ -19,4 +19,8 @@ Join Dan Vega and DaShaun Carter as they explore what’s new in the world of Sp
 
 -   [SpringOne Registration](https://springone.io/)
 -   [Spring Release Calendar](https://calendar.spring.io/)
+-   [Spring I/O YouTube Channel](https://www.youtube.com/@SpringIOConference/videos)
+-   [What the CRaC](https://aboullaite.me/what-the-crac/)
+-   [Package by Layer vs Package by Feature](https://medium.com/sahibinden-technology/package-by-layer-vs-package-by-feature-7e89cde2ae3a)
+-   [Java 17 🤝 AWS Lambda](https://www.youtube.com/watch?v=bxK4GscuVgs)
 -   [Spring Boot 3.1 Release Notes](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.1-Release-Notes)
